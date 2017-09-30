@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="titulo_5MascotasFavoritas">5 Mascotas Favoritas</string>
+    <string name="texto_boton">Click</string>
+    <string name="texto_titulo">Hello World!</string>
+    <string name="mensaje">Favorito :)</string>
+    <string name="texto_accion">Acción</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+    </string-array>
+    <string name="titulo_tajeta">Android 5.0</string>
+    <string name="descripcion_tajeta">Ésta es la versión en la que se incluyó Material Design Android Lollipop</string>
+
+    <string name="nombre_mascota">Catty</string>
+    <string name="numero_huesos">5</string>
+</resources>
